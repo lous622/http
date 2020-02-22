@@ -1,7 +1,7 @@
 /**
 Usage : node https.js domain time
 Example : node https.js http://spyhackerz.org/ 60
-HTTP-PROXY ~ Lous
+HTTPS-PROXY ~ Lous
 SpyHackerz.ORG / COM
 */ 
 var url = require('url');
